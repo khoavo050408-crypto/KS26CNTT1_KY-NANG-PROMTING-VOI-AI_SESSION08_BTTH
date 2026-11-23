@@ -1,7 +1,3 @@
-# BÁO CÁO TỔNG HỢP: QUẢN TRỊ PROMPT & SYSTEM INSTRUCTIONS
-*Ứng dụng tự động hóa Custom Instructions, Prompt Library & Prompt Injection cho hệ thống cửa hàng (Khung CREATE, So sánh Trade-off & Prompt Chaining)*
-
----
 
 ## Phần I: Thiết kế giải pháp I/O & Prompt chuẩn khung CREATE
 
